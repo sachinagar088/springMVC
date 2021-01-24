@@ -1,3 +1,3 @@
 # SpringMVC
 
-CRUD APP CREATED USING SPRING MVC AND HIBERNATE
+CRUD Application created using SpringMVC and Hibernate
